@@ -21,7 +21,7 @@ session_start();
         <h1  class="display-4">Bloggen</h1>
         <nav>
             <ul class="nav nav-tabs">
-                <li class="nav-item"><a class="nav-link" href="./lasa.php">Läsa</a></li>
+                <li class="nav-item"><a class="nav-link" href="./index.php">Läsa</a></li>
                 <li class="nav-item"><a class="nav-link" href="./skriva.php">Skriva</a></li>
                 <li class="nav-item"><a class="nav-link" href="./login.php">Logga in</a></li>
             </ul>
